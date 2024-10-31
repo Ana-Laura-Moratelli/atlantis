@@ -18,5 +18,5 @@
   <pre><code>npx tsc</code></pre>
 
   <h3>Passo 3: Execute o projeto</h3>
-  <pre><code>cd /js/app</code></pre>
+  <pre><code>cd src/js/app</code></pre>
   <pre><code>node app.js</code></pre>
