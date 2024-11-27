@@ -6,6 +6,7 @@ A Atlantis é uma plataforma integrada desenvolvida para auxiliar parques aquát
 <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=000000" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=000000" />
+    <img src="https://img.shields.io/badge/Mysql-339933?style=for-the-badge&logo=mysql&logoColor=white&color=000000" />
     <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=React&logoColor=white&color=000000" />
     <img src="https://img.shields.io/badge/Tailwind CSS-339933?style=for-the-badge&logo=tailwindcss&logoColor=white&color=000000" />    
 </div>
