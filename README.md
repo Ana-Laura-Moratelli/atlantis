@@ -19,6 +19,7 @@
 <pre><code>npm install</code></pre>
 
 <h3>Passo 3: Configure o MySQL</h3>
+<p>Na pasta bd estão disponíveis as tabelas e os scripts de inserção de dados (inserts).</p>
 <p>Abra o arquivo <code>database.ts</code> localizado na pasta <code>src</code> e encontre a seguinte seção:</p>
 <pre><code>const db = mysql.createConnection({
     host: 'localhost',
